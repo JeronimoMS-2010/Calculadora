@@ -12,6 +12,11 @@ A simple calculator made in Python as a practice exercise.
 - Python
 - Tkinter
 
+## Repository Contents
+This repository includes:
+- 📄 Source code (`.py`)
+- ⚙️ Executable version (`.exe`)
+
 ## Project Date
 27/05/2026
 
